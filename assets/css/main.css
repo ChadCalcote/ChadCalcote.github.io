@@ -51,6 +51,10 @@ table {
 	border-spacing: 0;
 }
 
+li svg:hover {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
