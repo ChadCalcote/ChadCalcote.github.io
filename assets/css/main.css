@@ -52,7 +52,7 @@ table {
 }
 
 li svg:hover {
-	background-color: rgba(250, 247, 247, 0.803);
+	background-color: rgba(202, 192, 192, 0.803);
 }
 
 body {
@@ -3887,4 +3887,8 @@ input, select, textarea {
 
 	}
 
-	
+	img {
+		object-fit: cover;
+		height: 100%;
+		width: 100%;
+	}
