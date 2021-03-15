@@ -2517,6 +2517,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			width: 100%;
+			object-fit: cover;
 		}
 
 			.image.fill img {
@@ -2525,6 +2526,7 @@ input, select, textarea {
 				position: absolute;
 				top: 0;
 				width: 100%;
+				object-fit: cover;
 			}
 
 /* List */
