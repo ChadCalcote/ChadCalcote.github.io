@@ -176,16 +176,6 @@ input, select, textarea {
 		line-height: 2;
 	}
 
-	a {
-		-moz-transition: border-bottom-color 0.25s ease-in-out;
-		-webkit-transition: border-bottom-color 0.25s ease-in-out;
-		-ms-transition: border-bottom-color 0.25s ease-in-out;
-		transition: border-bottom-color 0.25s ease-in-out;
-		text-decoration: none;
-		color: #000000;
-		border-bottom: dotted 1px;
-	}
-
 		a:hover {
 			text-decoration: none;
 			border-bottom-color: transparent;
