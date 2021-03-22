@@ -54,6 +54,7 @@ table {
 
 li svg:hover {
 	background-color: rgba(202, 192, 192, 0.803);
+	border-radius: 10%;
 }
 
 body {
